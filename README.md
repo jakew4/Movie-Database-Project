@@ -23,7 +23,7 @@ region | the region for this version of the title
 language | the language of the title
 attributes | Additional terms to describe this alternative title, not enumerated
 titleType | the type/format of the title (e.g. movie, short, tvseries, tvepisode, video, etc)
-primaryTitle (string) – the more popular title / the title used by the filmmakers on promotional materials at the point of release
+primaryTitle | the more popular title / the title used by the filmmakers on promotional materials at the point of release
 originalTitle | original title, in the original language
 startYear | represents the release year of a title. In the case of TV Series, it is the series start year
 endYear | TV Series end year. ‘\N’ for all other title types
