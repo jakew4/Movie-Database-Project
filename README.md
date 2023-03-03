@@ -8,6 +8,31 @@
 
 ![moviesjawn](https://user-images.githubusercontent.com/112730629/222327496-49913c4a-9836-4d31-8885-887707a7071d.png)
 
+## Data: 
+* IMDB: https://datasets.imdbws.com/
+* TMDB: https://www.themoviedb.org/
+
+Column Name | Description
+---|---
+
+tconst | alphanumeric unique identifier of the title
+averageRating | weighted average of all the individual user ratings
+numVotes | number of votes the title has received
+titleId | a tconst, an alphanumeric unique identifier of the title
+title | the localized title
+region | the region for this version of the title
+language | the language of the title
+attributes | Additional terms to describe this alternative title, not enumerated
+titleType | the type/format of the title (e.g. movie, short, tvseries, tvepisode, video, etc)
+primaryTitle (string) – the more popular title / the title used by the filmmakers on promotional materials at the point of release
+originalTitle | original title, in the original language
+startYear | represents the release year of a title. In the case of TV Series, it is the series start year
+endYear | TV Series end year. ‘\N’ for all other title types
+runtimeMinutes | primary runtime of the title, in minutes
+genres | includes up to three genres associated with the title
+
+
+
 
 ## Methods: 
 * Cleaned IMDB movie data by addressing null values and filtering data based on stakeholder specifications.
