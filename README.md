@@ -34,9 +34,9 @@ genres | includes up to three genres associated with the title
 
 
 ## Methods: 
-* Cleaned IMDB movie data by addressing null values and filtering data based on stakeholder specifications.
-* Extracted additional movie data, including financial data and moving ratings using The Movie Database (TMDB) API and constructed a MySQL Database after combining the data from IMDB and TMDB. 
-* Utilized the MySQL database and several hypothesis testing methods to answer key stakeholder questions about what makes a movie succesful. 
+* Cleaned and filtered IMDB movie data based on stakeholder specifications.
+* Extracted additional movie data, including financial data and movie ratings using The Movie Database (TMDB) API and constructed a MySQL Database after combining the data from IMDB and TMDB. 
+* Utilized the MySQL database and several hypothesis testing methods to answer key stakeholder questions about what makes a movie successful. 
   * Hypothesis Testing Methods:
     * One-Way ANOVA Tests
     * Tukey's Pairwise Multiple Comparisons Test
