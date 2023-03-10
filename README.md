@@ -4,7 +4,7 @@
 * Author: Jacob Wang
 * Last updated: 3/6/2023
 
-## Business Problem: Design a MySQL database on Movies from a subset of IMDB's publicly available dataset. Utilized the database to analyze what makes a movie successful and provided recommendations to the stakeholder on what makes a successful movie.
+## Business Problem: Design a MySQL database on Movies from a subset of IMDB's publicly available dataset. Utilize the database to analyze what makes a movie successful and provide recommendations to the stakeholder on what makes a successful movie.
 
 ![moviesjawn](https://user-images.githubusercontent.com/112730629/222327496-49913c4a-9836-4d31-8885-887707a7071d.png)
 
